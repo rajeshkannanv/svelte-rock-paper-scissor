@@ -2,9 +2,12 @@
 
 ![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
 
+Sevelte with webpack and babel.
 ## Demo
 
 https://rajeshkannanv.github.io/svelte-rock-paper-scissor/
+
+It works in IE11 as well
 
 ## Get started
 
@@ -14,10 +17,10 @@ Install the dependencies...
 npm install
 ```
 
-...then start [Rollup](https://rollupjs.org):
+...then start Webpack:
 
 ```bash
 npm run dev
 ```
 
-Navigate to [localhost:5000](http://localhost:5000).
+Navigate to [localhost:8080](http://localhost:8080).
