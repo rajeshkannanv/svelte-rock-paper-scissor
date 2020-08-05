@@ -1,7 +1,6 @@
 <script>
   export let onclick;
   export let selectors = [];
-  export let visible;
 </script>
 
 <style>
@@ -10,7 +9,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background: url("./img/bg-triangle.svg") no-repeat center;
+    /* background: url("./img/bg-triangle.svg") no-repeat center; */
   }
 
   .buttons {

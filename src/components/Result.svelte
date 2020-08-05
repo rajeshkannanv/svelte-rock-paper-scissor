@@ -3,7 +3,6 @@
   export let machinePicked = "";
   export let resultMessage;
   export let onPlayagain;
-  export let visible;
 </script>
 
 <style>
