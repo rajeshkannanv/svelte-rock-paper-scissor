@@ -8,8 +8,8 @@
     "build": "webpack --env.mode=production"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "rajeshkannanv",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
